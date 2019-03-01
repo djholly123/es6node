@@ -6,7 +6,5 @@ let dtNow = moment();
 
 
 console.log( dtNow );
-
-
 process.exit(0);
 
